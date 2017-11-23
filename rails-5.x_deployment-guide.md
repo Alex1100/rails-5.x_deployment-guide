@@ -105,6 +105,15 @@
         <p>Add ENV VARS via VIM</p>
     </li>
     <li>
+        <h3>To test server and code</h3>
+        <p>run <code>bundle exec ./bin/webpack</code>
         <p>run <code>rails s</code></p>
+    </li>
+    <li>
+        <h3>To keep detached screen running forever while running the server</h3>
+        <p>run <code>bundle exec ./bin/webpack</code></p>
+        <p>run <code>screen rails s</code></p>
+        <p>run <code>ctrl + A + D</code> to keep screen running but detach yourself from it</p>
+        <p>run <code>screen -r</code> to view all running screen instance</p>
     </li>
 </ol>
