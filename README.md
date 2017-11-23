@@ -105,6 +105,11 @@
         <p>Add ENV VARS via VIM</p>
     </li>
     <li>
+        <h3>To test server and code</h3>
         <p>run <code>rails s</code></p>
+    </li>
+    <li>
+        <h3>To keep detached screen running forever while running the server</h3>
+        <p>run <code>screen rails s</code></p>
     </li>
 </ol>
