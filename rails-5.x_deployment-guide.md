@@ -1,6 +1,6 @@
 # STEPS TO DEPLOY RAILS APP WITH AWS EC2
 <hr/>
-<img width="100" height="100" src="" />
+<img width="100" height="100" src="https://pbs.twimg.com/profile_images/476766169349636096/xUHXk6zu.png" />
 <img width="200" height="150" src="https://d7umqicpi7263.cloudfront.net/img/product/40753dc3-0182-458f-9268-213115224d8d/c10dfd79-1fb7-4a73-8290-43736e40b00c.png" />
 
 <ol>
