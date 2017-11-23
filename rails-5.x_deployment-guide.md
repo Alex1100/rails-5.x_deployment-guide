@@ -43,15 +43,11 @@
     <li>
         <h3>To install latest version of Ruby</h3>
         <p>run <code>rvm install ruby</code></p>
-    </li>
-    <li>
         <p>run <code>rvm --default use ruby</code></p>
     </li>
     <li>
         <h3>To install a specific version of Ruby</h3>
         <p>run <code>rvm install ruby-X.X.X</code></p>
-    </li>
-    <li>
         <p>run <code>rvm --default use ruby-X.X.X</code></p>
     </li>
     <li>
@@ -76,9 +72,12 @@
         <p>run <code>sudo yum install -y --enablerepo=epel nodejs npm</code></p>
     </li>
     <li>
-
         <h3>To Install Yarn For CentOS, Fedora, AWS Linux, Redhat, Redhat Enterprise Linux</h3>
-        <p>run <code>sudo wget https://dl.yarnpkg.com/rpm/yarn.repo -O /etc/yum.repos.d/yarn.repo</code></p>
+        <p>run 
+            <code>
+                sudo wget https://dl.yarnpkg.com/rpm/yarn.repo -O /etc/yum.repos.d/yarn.repo
+            </code>
+        </p>
     </li>
     <li>
         <p>run <code>sudo yum install yarn</code></p>
