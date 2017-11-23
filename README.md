@@ -106,10 +106,12 @@
     </li>
     <li>
         <h3>To test server and code</h3>
+        <p>run <code>bundle exec ./bin/webpack</code>
         <p>run <code>rails s</code></p>
     </li>
     <li>
         <h3>To keep detached screen running forever while running the server</h3>
+        <p>run <code>bundle exec ./bin/webpack</code></p>
         <p>run <code>screen rails s</code></p>
     </li>
 </ol>
