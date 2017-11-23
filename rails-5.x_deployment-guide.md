@@ -83,6 +83,16 @@
         <p>run <code>sudo yum install yarn</code></p>
     </li>
     <li>
+        <h3>Installing Git</h3>
+        <p>run <code>sudo yum instal git</code></p>
+        <p>run <code>sudo yum upgrade</code></p>
+    </li>
+    <li>
+        <h3>Clone Git Repo to the SSH'ed Machine</h3>
+        <p>run <code>git clone __cloned_repo_url__</code></p>
+    </li>
+    <li>
+        <p>run <code>cd __name_of_cloned_repo__</code></p>
         <p>run <code>bundle install</code></p>
     </li>
     <li>
