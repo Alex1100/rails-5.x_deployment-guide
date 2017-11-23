@@ -5,7 +5,7 @@
 
 <ol>
     <li>
-        <p>Launch New Instance in AWS console</p>
+        <p>Launch New EC2 Instance in AWS console</p>
     <li>
         <p>Define Security Groups</p>
         <p>Include public ip addr as custom tcp rule for security group</p>
